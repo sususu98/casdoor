@@ -20,7 +20,6 @@ require (
 	github.com/casbin/casbin/v2 v2.77.2
 	github.com/casdoor/go-sms-sender v0.25.0
 	github.com/casdoor/gomail/v2 v2.2.0
-	github.com/casdoor/ldapserver v1.2.0
 	github.com/casdoor/notify v1.0.1
 	github.com/casdoor/oss v1.8.0
 	github.com/casdoor/xorm-adapter/v3 v3.1.0
@@ -43,7 +42,6 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/lestrrat-go/jwx v1.2.29
 	github.com/lib/pq v1.10.9
-	github.com/lor00x/goldap v0.0.0-20180618054307-a546dffdd1a3
 	github.com/markbates/goth v1.79.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/nyaruka/phonenumbers v1.2.2
@@ -60,6 +58,8 @@ require (
 	github.com/siddontang/go-log v0.0.0-20190221022429-1e957dd83bed
 	github.com/stretchr/testify v1.11.1
 	github.com/stripe/stripe-go/v74 v74.29.0
+	github.com/sususu98/goldap v0.0.0-20251224063643-5ce78790b00f
+	github.com/sususu98/ldapserver v0.0.0-20251224063957-26817feb2a84
 	github.com/tealeg/xlsx v1.0.5
 	github.com/thanhpk/randstr v1.0.4
 	github.com/xorm-io/builder v0.3.13
